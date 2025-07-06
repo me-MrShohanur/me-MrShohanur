@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=me-MrShohanur.me-MrShohanur" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+𝑀ʀ+Shohanur!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+This+is+𝗠ʀ+Shohanur!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Bangladesh 🇧🇩</h3>
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,python,java,cs,c,html,css," />
-    <img src="https://skillicons.dev/icons?i=figma,firebase,mongodb,mysql,vscode,github,git," /><br>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,python,java,cs,c,html,css," /><br>
+    <img src="https://skillicons.dev/icons?i=firebase,figma,mongodb,vscode,github,git," /><br>
 </div>
 
 <br/>
